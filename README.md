@@ -2,7 +2,7 @@
 根据自定义关键词，下载图片
 
 今天我们来爬取一个图片网站花瓣网，写一个比较简单的图片下载的爬虫;    
-![image](https://github.com/xiangge93/huaban/raw/master/images/迪丽热巴.jpg)
+![image](https://github.com/xiangge93/huaban/raw/master/images/迪丽热巴.png)
 
 图片太多了，只截了这些图片，大概几千张；
 对，没错，就是你们喜欢的胖迪，
